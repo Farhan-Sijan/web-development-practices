@@ -1,0 +1,22 @@
+div{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+   display:inline-block;
+}
+
+#a{
+    background-color:blue;
+}
+
+#b{
+    background-color:red;
+    /* display:none; */
+   /* visibility:hidden; */
+  
+}
+
+#c{
+    background-color:green;
+}
