@@ -5,14 +5,14 @@ I am using this repository to practice web development concepts and improve my c
 
 ## Technologies
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Purpose
 
-Practice web development
-Learn and improve my web development skills
-Track my learning progress
+- Practice web development
+- Learn and improve my web development skills
+- Track my learning progress
 
 More technologies and languages will be added as I continue learning and exploring web development.
